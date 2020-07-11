@@ -31,7 +31,6 @@ End of the day |
 
 
 *****
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=itsasine.itsasine)
 
 <!--
@@ -48,3 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![ItsASine's github stats](https://github-readme-stats.vercel.app/api?username=itsasine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
