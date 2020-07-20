@@ -1,4 +1,5 @@
-# ItsASine
+<h1 align="center">Hi 👋, I'm ItsASine</h1>
+<h2 align="center">Software Test Engie</h2>
 
 Me |
 ------------- |
@@ -12,39 +13,36 @@ My job |
 
 *****
 
-Bug report |
-------------- |
-![](https://media.giphy.com/media/QJsPYF5SfCJKn2wRdX/giphy.gif) |
+- 💬 Ask me about: **Jasmine, Protractor, and automated testing best practices**
+- 📫 How to reach me: **hi@itsasine.dev**
+- ⚡ Fun fact: **I hate pizza :o**
+
+<p align="center"> <!-- I wish I could embed markdown in html without it breaking everything -->
+  <a href="https://codepen.io/itsasine" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="itsasine" height="20" width="20" />
+  </a>
+  <a href="https://dev.to/itsasine" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsasine" height="20" width="20" />
+  </a>
+  <a href="https://stackoverflow.com/itsasine" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="itsasine" height="20" width="20" />
+  </a>
+  <a href="https://codesandbox.com/itsasine" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="itsasine" height="20" width="20" />
+  </a>
+  <a href="https://kaggle.com/itsasine" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="itsasine" height="20" width="20" />
+  </a>
+</p>
 
 *****
 
-Sprint metrics |
-------------- |
-![](https://media.giphy.com/media/h5okuiwkTSBRPaQkzB/giphy.gif) |
+![Visitor Count](https://komarev.com/ghpvc/?username=itsasine)    
+[![ItsASine's github stats](https://github-readme-stats.vercel.app/api?username=itsasine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 *****
 
-End of the day |
-------------- |
-![](https://media.giphy.com/media/fH6uBGKBKUyRYtk3f0/giphy.gif) |
-![](https://media.giphy.com/media/WxWmUBhk2dIti4vmvp/giphy.gif) |
-
-
-*****
-![Visitor Count](https://profile-counter.glitch.me/ItsASine/count.svg)
-
-<!--
-**ItsASine/ItsASine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![ItsASine's github stats](https://github-readme-stats.vercel.app/api?username=itsasine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+Bug report | Sprint metrics | End of the day |
+------------- | ------------- | ------------- |
+![](https://media.giphy.com/media/QJsPYF5SfCJKn2wRdX/giphy.gif) | ![](https://media.giphy.com/media/h5okuiwkTSBRPaQkzB/giphy.gif) | ![](https://media.giphy.com/media/fH6uBGKBKUyRYtk3f0/giphy.gif) |
+| | | ![](https://media.giphy.com/media/WxWmUBhk2dIti4vmvp/giphy.gif) |
