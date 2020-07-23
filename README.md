@@ -48,3 +48,5 @@ Bug report | Sprint metrics | End of the day |
 ------------- | ------------- | ------------- |
 ![](https://media.giphy.com/media/QJsPYF5SfCJKn2wRdX/giphy.gif) | ![](https://media.giphy.com/media/h5okuiwkTSBRPaQkzB/giphy.gif) | ![](https://media.giphy.com/media/fH6uBGKBKUyRYtk3f0/giphy.gif) |
 | | | ![](https://media.giphy.com/media/WxWmUBhk2dIti4vmvp/giphy.gif) |
+
+![](octocat.png)
