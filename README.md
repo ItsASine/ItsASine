@@ -15,7 +15,9 @@ My job |
 
 - 💬 Ask me about: **Jasmine, Protractor, and automated testing best practices**
 - 📫 How to reach me: **hi@itsasine.dev**
+- 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I hate pizza :o**
+- 🎮 Currently Playing: **Paper Mario: Origami King and Fallout 76**
 
 <p align="center"> <!-- I wish I could embed markdown in html without it breaking everything -->
   <a href="https://codepen.io/itsasine" target="blank">
