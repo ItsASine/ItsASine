@@ -12,10 +12,16 @@
     "📫": "hi@itsasine.dev",
     "😄": "She/Her",
     "⚡": "I hate pizza :o",
-    "🎮": [
-      "Paper Mario: Origami King",
-      "Fallout 76"
-    ],
+    "🎮": {
+      "current": "Fallout 76",
+      "recent": [
+        "Paper Mario: Origami King",
+        "Bug Fables"
+      ],
+      "upcoming": [
+        "Pikmin 3 Deluxe"
+      ]
+    },
   }
 ]
 ```
