@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ItsASine</h1>
 <h2 align="center">Software Test Engie 📐</h2>
 
-- [ ] Test
-- [ ] Test
-- [x] Test
-
 ```js
 [
   "me": {
