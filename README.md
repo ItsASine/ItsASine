@@ -13,10 +13,13 @@
     "😄": "She/Her",
     "⚡": "I hate pizza :o",
     "🎮": {
-      "current": "Fallout 76",
+      "current": [
+        "Fallout 76",
+        "Hades"
+      ],
       "recent": [
-        "Paper Mario: Origami King",
-        "Bug Fables"
+        "Super Mario 64 (again...)",
+        "Paper Mario: Origami King"
       ],
       "upcoming": [
         "Pikmin 3 Deluxe"
