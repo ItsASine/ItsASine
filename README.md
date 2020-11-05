@@ -19,9 +19,7 @@
       ],
       "recent": [
         "Super Mario 64 (again...)",
-        "Paper Mario: Origami King"
-      ],
-      "upcoming": [
+        "Paper Mario: Origami King",
         "Pikmin 3 Deluxe"
       ]
     },
@@ -40,11 +38,11 @@
 | ![](https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy-downsized.gif) |
 
 <p>
-  <a href="https://codepen.io/itsasine" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="itsasine" height="20" width="20" />
-  </a>
   <a href="https://dev.to/itsasine" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsasine" height="20" width="20" />
+  </a>
+  <a href="https://codepen.io/itsasine" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="itsasine" height="20" width="20" />
   </a>
   <a href="https://stackoverflow.com/itsasine" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="itsasine" height="20" width="20" />
