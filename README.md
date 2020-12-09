@@ -7,22 +7,17 @@
     "💬": [
       "Jasmine",
       "Protractor",
+      "WebdriverIO",
       "automated testing best practices"
     ],
     "📫": "hi@itsasine.dev",
     "😄": "She/Her",
     "⚡": "I hate pizza :o",
-    "🎮": {
-      "current": [
-        "Fallout 76",
-        "Hades"
-      ],
-      "recent": [
-        "Super Mario 64 (again...)",
-        "Paper Mario: Origami King",
-        "Pikmin 3 Deluxe"
-      ]
-    },
+    "🎮": [
+      "Fallout 76",
+      "Hades (again)",
+      "Dragon Quest XI (again)"
+    ]
   }
 ]
 ```
