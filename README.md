@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ItsASine</h1>
 <h2 align="center">Software Test Engie 📐</h2>
 
+<!--
 ```js
 [
   "me": {
@@ -21,7 +22,7 @@
   }
 ]
 ```
-
+-->
 | Me |
 | ------------- |
 | ![](https://media.giphy.com/media/uUz1iGsj6t0ErjdjT1/giphy-downsized.gif)  |
@@ -67,9 +68,10 @@
   ![](https://media.giphy.com/media/fH6uBGKBKUyRYtk3f0/giphy.gif)
 
   ![](https://media.giphy.com/media/WxWmUBhk2dIti4vmvp/giphy.gif)
-  
+ 
+<!--
 [![ItsASine's github stats](https://github-readme-stats.vercel.app/api?username=itsasine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ![Visitor Count](https://komarev.com/ghpvc/?username=itsasine)    
 
 </details>
