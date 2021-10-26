@@ -35,11 +35,12 @@
 
 <p>
   <a href="https://dev.to/itsasine" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsasine" height="20" width="20" />
+    <img align="center" src="https://img.shields.io/badge/DEV-itsasine-lightgrey" alt="dev.to itsasine" />
   </a>
   <a href="https://codepen.io/itsasine" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="itsasine" height="20" width="20" />
+    <img align="center" src="https://img.shields.io/badge/CodePen-itsasine-lightgrey" alt="codepen itsasine" />
   </a>
+  <!--
   <a href="https://stackoverflow.com/itsasine" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="itsasine" height="20" width="20" />
   </a>
@@ -49,6 +50,7 @@
   <a href="https://kaggle.com/itsasine" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="itsasine" height="20" width="20" />
   </a>
+  -->
 </p>
 
 
