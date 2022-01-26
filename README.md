@@ -1,37 +1,11 @@
 <h1 align="center">Hi 👋, I'm ItsASine</h1>
-<h2 align="center">Software Test Engie 📐</h2>
+<h2 align="center">Azure DevOps Person</h2>
 
-<!--
-```js
-[
-  "me": {
-    "💬": [
-      "Jasmine",
-      "Protractor",
-      "WebdriverIO",
-      "automated testing best practices"
-    ],
-    "📫": "hi@itsasine.dev",
-    "😄": "She/Her",
-    "⚡": "I hate pizza :o",
-    "🎮": [
-      "Fallout 76",
-      "Hades (again)",
-      "Dragon Quest XI (again)"
-    ]
-  }
-]
-```
--->
 | Me |
 | ------------- |
 | ![](https://media.giphy.com/media/uUz1iGsj6t0ErjdjT1/giphy-downsized.gif)  |
 | ![](https://media.giphy.com/media/9Dv115OjdmkRxdV54V/giphy-downsized.gif) |
 
-| My job |
-| ------------- |
-| ![](https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy-downsized.gif)  |
-| ![](https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy-downsized.gif) |
 
 <p>
   <a href="https://dev.to/itsasine" target="blank">
@@ -57,7 +31,7 @@
 <details>
   <summary>Fun GIFs and such</summary>
 
-## Bug report
+## Me on release night
 
   ![](https://media.giphy.com/media/QJsPYF5SfCJKn2wRdX/giphy.gif)
 
